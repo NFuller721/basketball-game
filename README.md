@@ -1,2 +1,1 @@
-# basketball-game
-Basketball game in TS
+# Basketball Game
